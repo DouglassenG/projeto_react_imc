@@ -1,0 +1,27 @@
+form {
+    background: linear-gradient( #f0932b, #badc58);
+    padding: 16px;
+    border: 3px solid #111;
+    border-radius: 12px;
+    display: block;
+    max-width: 960px;
+    width: 100%;
+    margin: 14px auto;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;     
+    align-items: center;      
+}
+
+input {
+    display: flex;
+    width: 200px;
+    height: 40px;
+    margin: 16px 0;
+    font-size: 20px;
+    border-radius: 8px;
+    align-items: center;
+    padding-left: 10px;
+}
