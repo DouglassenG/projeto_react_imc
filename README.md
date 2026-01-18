@@ -15,7 +15,7 @@ O projeto resolve o problema da necessidade de cálculos manuais para avaliaçã
 
 ## 🖼️ Demonstração Visual
 
-*(Se o projeto estiver hospedado na Vercel, Netlify ou GitHub Pages, insira o link aqui. Ex: [Acesse a Calculadora Online](URL))*
+https://projeto-react-imc-nine.vercel.app/
 
 ## 🛠️ Tecnologias Utilizadas
 
